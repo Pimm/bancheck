@@ -1,0 +1,13 @@
+{
+  "name": "bancheck",
+  "version": "0.20.0",
+  "description": "Snapshot-driven test runner",
+  "main": "index.js",
+  "author": "Pimm \"de Chinchilla\" Hogeling",
+  "license": "X11",
+  "dependencies": {
+    "jest-diff": "^20.0.3",
+    "jest-snapshot": "^20.0.3",
+    "pretty-format": "^20.0.3"
+  }
+}
