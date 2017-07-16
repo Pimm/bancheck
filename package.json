@@ -1,7 +1,7 @@
 {
   "name": "bancheck",
   "version": "0.20.0",
-  "description": "Snapshot-driven test runner",
+  "description": "Anti-TDD test runner that trusts you",
   "main": "index.js",
   "author": "Pimm \"de Chinchilla\" Hogeling",
   "license": "X11",
